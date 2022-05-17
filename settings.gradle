@@ -1,0 +1,5 @@
+rootProject.name = 'BloomFilter'
+include 'core'
+include 'app'
+include 'core'
+
